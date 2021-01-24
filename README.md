@@ -4,5 +4,8 @@
 
 For xx workshop as below lists 
   1. Analysis of Customer Behaviors
-    > For ananlyze intersting and consumer behavior from studnt in class
+    > For ananlyze intersting and consumer behavior from student in class
+  2. Jobs to be done
+    >
+  3. xxxx
 
