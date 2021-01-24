@@ -4,9 +4,9 @@
 
 For xx workshop as below lists 
  1. Analysis of Customer Behaviors
-    - To analyze intersting and consumer behavior from student in class.
+    - To analyze intersting and consumer behavior from students in class.
   2. Jobs to be done
-    - About customer making progress towards desire future.
+   - About customer making progress towards desire future.
   3. Value Proposition
     - To analyze a day in life of classmates (including activities , pain and gain). 
 
