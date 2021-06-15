@@ -10,4 +10,4 @@
 3. You can get a step-by-step guide from my medium by clicking on the link. >> https://ploiitubsamon.medium.com/how-to-create-a-clv-dashboard-in-power-bi-ebbf4d41f22d
 4. The sample dashboard that I created with Power BI is shown below.
 
-![pic] (https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2005%20-%20Customer%20Lifetime%20Value%20Dashboard/Pic1.jpeg?raw=true)
+ ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2005%20-%20Customer%20Lifetime%20Value%20Dashboard/Pic1.jpeg?raw=true)
