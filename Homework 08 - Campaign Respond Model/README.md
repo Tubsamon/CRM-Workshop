@@ -12,7 +12,7 @@ In this session, After training a campaign response model, I found that the mode
   - Add new CLV parameter.
   - Delete some parameter by considering from Correlation Matrix Plots and Pair Plots.
   - After run model again >> get the better result.
-  - You can follow step-by-step from link : https://colab.research.google.com/drive/1hPG0twUNGK63S_2I2ChHb2KzmOjf65BL?usp=sharing
+  - You can follow step-by-step from [link](https://colab.research.google.com/drive/1hPG0twUNGK63S_2I2ChHb2KzmOjf65BL?usp=sharing)
   - In the link has steps as below
       - Importing libraries and datasets
       - Data Preparation
