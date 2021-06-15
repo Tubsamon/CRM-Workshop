@@ -2,7 +2,7 @@
 
 *"This repository is the part of CRM Analytics dnd Intelligence Subject at NIDA Business School"
 
-For xx workshops as below lists 
+For 12 workshops as below lists 
  1. Analysis of Customer Behaviors
     - To analyze intersting and consumer behavior from students in class.
  2. Jobs to be done
@@ -16,4 +16,5 @@ For xx workshops as below lists
  8. Campaign Respond Result
  9. A/B Testing
  10. Customer Movement Analysis
-
+ 11. Voice of Customer
+ 12. 
