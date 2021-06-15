@@ -1,6 +1,6 @@
 # Homework 6 : Customer Segmentation
 
-1. In this session, i use Google Big Query to create segmentation from a Supermarket Dataset.
+1. In this session, i use Google Big Query to create segmentation from a [Supermarket Dataset](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).
 2. Following the addition of data to Google Big Query and the querying of data (shown as below)
   - Create a cluster for each of the four groups.
   - The clustering method is defined as KMEANS++.
