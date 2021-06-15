@@ -9,7 +9,7 @@
    
   ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2006-%20Customer%20Segmentation/Traning%20options.JPG?raw=true)
 
--- SQL code for customer segmentation in Google Big Query is provided below.
+3. SQL code for customer segmentation in Google Big Query is provided below.
 
 ```
 CREATE MODEL
@@ -59,5 +59,11 @@ AS
     GROUP BY CUST_CODE , SHOP_WEEK) AS A
     )
 ```
-3. 
-![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2006-%20Customer%20Segmentation/Traning%20options.JPG?raw=true)
+
+4. Following the end of the training model, the results are shown below.
+
+ ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2006-%20Customer%20Segmentation/Cust%20Seg.JPG)
+
+
+  - The biggest group of customers in Centroid 3 are around 47k members, with an ARPU of $6.55 per month, while the smallest group of members has 4k members and an ARPU of $56,000 per month.
+  - Other features, such as average spending per time, average spending per week, ticket size, and transaction per month, give the same result as ARPU.
