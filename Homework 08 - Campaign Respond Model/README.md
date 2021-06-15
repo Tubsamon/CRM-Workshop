@@ -7,6 +7,7 @@ In this session, After training a campaign response model, I found that the mode
   - Improve model to get more accuracy.
 
 ### 2. Procedure :
+  - You can use data from [link](https://drive.google.com/drive/folders/1qjwJYTPHZcy193x1ND4TVFvAoPAmh1X1?usp=sharing).
   - Delete data in 2011-2012. They are resulted in underrated response rate.
   - Add new CLV parameter.
   - Delete some parameter by considering from Correlation Matrix Plots and Pair Plots.
