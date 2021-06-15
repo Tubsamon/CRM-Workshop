@@ -49,4 +49,3 @@ AS
     GROUP BY CUST_CODE , SHOP_WEEK) AS A
     )
     
-https://user-images.githubusercontent.com/48044778/122065740-61ca8300-ce1c-11eb-913c-c947fbf3fdb9.png
