@@ -6,7 +6,7 @@ In this session, ...
   - Find the relationship of products.
 
 ### 2. Procedure :
-  - You can use dataset from link: https://drive.google.com/file/d/1-0sTk_Iw38K-qNeD4y9RB4GWnV65_mGv/view?usp=sharing
+  - You can use dataset from [link](https://drive.google.com/file/d/1-0sTk_Iw38K-qNeD4y9RB4GWnV65_mGv/view?usp=sharing)
   - Define 
       - 'control group' is 'ซื้อ 1 แก้ว แถม 1' 
       - 'treatment group' is 'ซื้อ 2 แก้วลด 50%'
