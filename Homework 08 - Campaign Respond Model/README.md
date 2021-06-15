@@ -1,6 +1,6 @@
 # Homework 08 : Campaign Respond Model
 
-In this session, After training a campaign response model, I found that the model's accuracy is also affected by the dataset. If I choose the close year of the dataset, the accuracy will be impacted. In addition, I must consider parameters for creating the appropriate model by using Correlation Matrix Plots and Pair Plots.
+In this session, After training a campaign response model, I found that the model's accuracy is also affected by the dataset. If I choose the close year of the dataset, the accuracy will be impacted. In addition, I have to consider parameters for creating the appropriate model by using Correlation Matrix Plots and Pair Plots.
 
 
 ### 1. Goal : 
