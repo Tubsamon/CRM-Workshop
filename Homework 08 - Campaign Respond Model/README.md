@@ -1,6 +1,6 @@
 # Homework 08 : Campaign Respond Model
 
-In this session, I analyze the voice of customer by use Topic Modeling. It's an interesting way to manage customer feedback in the present to find out what customers are saying about your brand on social media. However, there is a clear difficulty in stop words in Thai due to the variety of spelling errors that make a low efficiency model.
+In this session, After training a campaign response model, I found that the model's accuracy is also affected by the dataset. If I choose the close year of the dataset, the accuracy will be impacted. In addition, I must consider parameters for creating the appropriate model by using Correlation Matrix Plots and Pair Plots.
 
 
 ### 1. Goal : 
