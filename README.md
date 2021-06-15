@@ -20,6 +20,7 @@ For 12 workshops as below lists
  [6.Customer Segmentation](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2006-%20Customer%20Segmentation)
  
  [7.Product Recommendation](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2007%20-%20Product%20Recommendation)
+  - Used to determine association rules, sometime call 'Market Basket Analysis'
  
  [8.Campaign Respond Result](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2008%20-%20Campaign%20Respond%20Model)
  
