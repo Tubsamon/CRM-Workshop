@@ -6,7 +6,7 @@ In this session, I analyze the voice of customer by use Topic Modeling. It's an 
 2. Procedure
   - Sepearte data of each store to 3 groups by brand (1.Mo-Mo-Paradise, 2.Shabushi, 3.ข้าน้อยขอชาบู) for clustering analysis to find some insight.
   - Remove abnormal words and add new groups for similar words.
-  - You can follow step-by-step from link : https://colab.research.google.com/drive/1kPVVkkLS4Tc7yVpZ2GFq1E4D2Q0FmA5-?usp=sharing
+  - You can follow step-by-step from [link](https://colab.research.google.com/drive/1kPVVkkLS4Tc7yVpZ2GFq1E4D2Q0FmA5-?usp=sharing)
   - In the link has steps as below
     - Load libraries and data
     ```
