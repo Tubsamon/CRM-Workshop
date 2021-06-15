@@ -1,4 +1,8 @@
 HW 5 : CLV Dashboard
 
 Procedure
-1.
+1. You should be knowledgeable with CLV dashbord parameters such as churn rate, CLV, ALT, and AGM.
+2. Start with DAX.
+  2.1 Create a date dimension
+  2.2 Create DAX formula for CLV dashboard
+3. Design dashboard.
