@@ -25,6 +25,7 @@ For 12 workshops as below lists
  [8.Campaign Respond Result](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2008%20-%20Campaign%20Respond%20Model)
  
  [9.A/B Testing](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2009%20-%20AB%20Testing)
+  - A/B testing is a way to compare two versions of a single variable, typically by testing a subject's response to variant A against variant B, and determining which of the two variants is more effective.
  
  [10.Customer Movement Analysis]()
  
