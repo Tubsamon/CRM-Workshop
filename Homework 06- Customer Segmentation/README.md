@@ -1,4 +1,4 @@
-# Homework 6 : Customer Segmentation
+# Homework 06 : Customer Segmentation
 In this session, i use Google Big Query to create segmentation from a [Supermarket Dataset](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).
 
 ### 1. Goal : 
