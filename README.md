@@ -10,7 +10,7 @@ For 12 workshops as below lists
  [2.Jobs to be done](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2002%20-%20Jobs%20To%20Be%20Done)
    - About customer making progress towards desire future.
    
- [3.Value Proposition]
+ [3.Value Proposition](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2003%20-%20Value%20Proposition)
    - To analyze a day in life of classmates (including activities , pain and gain). 
  
  [4.Customer Journey](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2004%20-%20Customer%20Journey)
