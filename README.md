@@ -14,6 +14,7 @@ For 12 workshops as below lists
    - To analyze a day in life of classmates (including activities , pain and gain). 
  
  [4.Customer Journey](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2004%20-%20Customer%20Journey)
+   - To describe how to provide the best possible experience to each individual customer.
  
  [5.Customer Lifetime Value Dashboard](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2005%20-%20Customer%20Lifetime%20Value%20Dashboard)
  
