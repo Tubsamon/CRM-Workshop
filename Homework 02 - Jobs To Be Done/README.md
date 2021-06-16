@@ -1,4 +1,4 @@
-# Homework 2 : Jobs to be done
+# Homework 02 : Jobs to be done
 
 1. In this session, The topic of this session is to create a new job to get the interesting thing from customer behavior activities in order to understand what motivates people to act.
 2. And create the topic , which we will call 'job statement'. 
