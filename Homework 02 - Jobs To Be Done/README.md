@@ -6,4 +6,4 @@
 4. I can create 'job statement' as below , that come from person who want to do many activities in one day. 
 
 
-![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2002%20-%20Jobs%20To%20Be%20Done/Homework%2002%20Jobs%20to%20be%20done.png?raw=true)
+      ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2002%20-%20Jobs%20To%20Be%20Done/Homework%2002%20Jobs%20to%20be%20done.png?raw=true)
