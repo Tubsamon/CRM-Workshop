@@ -1,18 +1,23 @@
 # Homework 6 : Customer Segmentation
+In this session, i use Google Big Query to create segmentation from a [Supermarket Dataset](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).
 
-1. In this session, i use Google Big Query to create segmentation from a [Supermarket Dataset](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).
-2. Following the addition of data to Google Big Query and the querying of data (shown as below)
-  - Create a cluster for each of the four groups.
-  - The clustering method is defined as KMEANS++.
-  - Define the Euclidean distance type. As shown in the image below
+### 1. Goal : 
+  - Find customer segmentation.
+
+### 2. Procedure :
+  - Following the addition of data to Google Big Query and the querying of data (shown as below)
+      - Create a cluster for each of the four groups.
+      - The clustering method is defined as KMEANS++.
+      - Define the Euclidean distance type. As shown in the image below
    
    
   ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2006-%20Customer%20Segmentation/Traning%20options.JPG?raw=true)
 
-3. SQL code for customer segmentation in Google Big Query is provided below.
+   - SQL code for customer segmentation in Google Big Query is provided below.
 
-```
-CREATE MODEL
+
+  ```
+  CREATE MODEL
     `myfirstproject-312707.TestHW6.TUBSAMON_CLUSTER_3`
 
 
@@ -60,7 +65,8 @@ AS
     )
 ```
 
-4. Following the end of the training model, the results are shown below.
+### 3. Conclusion : 
+Following the end of the training model, the results are shown below.
 
  ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2006-%20Customer%20Segmentation/Cust%20Seg.JPG)
 
