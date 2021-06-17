@@ -7,24 +7,64 @@ In this session,
   - To analyze movement of customer.
 
 ### 2. Procedure :
-  - You can use data from [link](https://drive.google.com/drive/folders/1qjwJYTPHZcy193x1ND4TVFvAoPAmh1X1?usp=sharing).
-  - Query data by Google Big Query 
-    - SQL code for query has shown as below. 
+  2.1 You can use data from [link](https://drive.google.com/drive/folders/1qjwJYTPHZcy193x1ND4TVFvAoPAmh1X1?usp=sharing).  
+  2.2 Query data by Google Big Query   
+  - SQL code for query has shown as below. 
+      
+      
+    ```
+       SELECT YEAR_MONTH, 
+       COUNT ( CASE 
+                     WHEN CUSTOMER_TYPE = "NEW CUSTOMER" THEN 1 
+                     END) AS NEW_CUSTOMER, 
+       COUNT(CASE 
+                     WHEN CUSTOMER_TYPE = "REPEAT CUSTOMER" THEN 1 
+                     END) AS REPEAT_CUSTOMER, 
+       COUNT(CASE 
+                     WHEN CUSTOMER_TYPE = "REACTIVED CUSTOMER" THEN 1 
+                    END) AS REACTIVATED_CUSTOMER,  
+    -(LAG(COUNT(YEAR_MONTH), 1)OVER (ORDER BY YEAR_MONTH)-
+      COUNT(CASE  
+      WHEN CUSTOMER_TYPE = "REPEAT CUSTOMER" THEN 1 
+                     END)) AS CHURN_CUSTOMER 
+    FROM 
+       (SELECT CUST_CODE, 
+                      YEAR_MONTH, 
+                    CASE 
+                               WHEN PREVIOUS_MONTH IS NULL THEN "NEW CUSTOMER" 
+                               WHEN (CAST_YEAR-P_NUM_YEAR)*12+(CAST_MONTH-P_NUM_MONTH) = 1 THEN "REPEAT CUSTOMER" 
+                               WHEN (CAST_YEAR-P_NUM_YEAR)*12+(CAST_MONTH-P_NUM_MONTH) > 1 THEN "REACTIVED CUSTOMER" 
+                    END AS CUSTOMER_TYPE 
+       FROM 
+                    (SELECT CUST_CODE, 
+                                   YEAR_MONTH, 
+                               CAST(SAFE.SUBSTR(CAST(YEAR_MONTH AS STRING), 1, 4) AS NUMERIC) AS CAST_YEAR, 
+                              CAST(SAFE.SUBSTR(CAST(YEAR_MONTH AS STRING), 5, 2) AS NUMERIC) AS CAST_MONTH, 
+                              LAG(YEAR_MONTH, 1) OVER (PARTITION BY CUST_CODE 
+                                        ORDER BY YEAR_MONTH) AS PREVIOUS_MONTH, 
+                              LEAD(YEAR_MONTH, 1) OVER (PARTITION BY CUST_CODE 
+                                        ORDER BY YEAR_MONTH) AS NEXT_MONTH, 
+                              CAST(SAFE.SUBSTR(CAST(LAG(YEAR_MONTH, 1) OVER (PARTITION BY CUST_CODE 
+                                        ORDER BY YEAR_MONTH) AS STRING), 1, 4) AS NUMERIC) AS P_NUM_YEAR, 
+                              CAST(SAFE.SUBSTR(CAST(LAG(YEAR_MONTH, 1) OVER (PARTITION BY CUST_CODE 
+                                        ORDER BY YEAR_MONTH) AS STRING), 5, 2) AS NUMERIC) AS P_NUM_MONTH, 
+                    FROM 
+                             (SELECT CUST_CODE, 
+                                            SUBSTRING(CAST(SHOP_DATE AS STRING), 1, 6) AS YEAR_MONTH 
+                             FROM `myfirstproject-312707.TestHW6.sample_data_table` 
+                             WHERE CUST_CODE IS NOT NULL 
+                             GROUP BY CUST_CODE, 
+                                                 YEAR_MONTH)) 
+                             ORDER BY CUST_CODE, 
+                                                 YEAR_MONTH) 
+    GROUP BY YEAR_MONTH 
+    ORDER BY YEAR_MONTH 
+    ```
     
-
-
-  - Add new CLV parameter.
-  - Delete some parameter by considering from Correlation Matrix Plots and Pair Plots.
-  - After run model again >> get the better result.
-  - You can follow step-by-step from [link](https://colab.research.google.com/drive/1hPG0twUNGK63S_2I2ChHb2KzmOjf65BL?usp=sharing)
-  - In the link has steps as below
-      - Importing libraries and datasets
-      - Data Preparation
-      - Calculating response rate
-      - Creating train and test dataset
-      - Fixing imbalanced with Undersampling
-      - Fixing imbalanced with Oversampling
-      - Fixing imbalanced with SMOTE
-      - Training models for 2 methods : Logistic Regression and XGBoost 
-### 3. Conclusion : By using logistic regression model - undersampled
-  - Precision = 0.22, Recall = 0.75, f1-Score = 0.34, Accuracy = 0.69, AUC = 0.78
+  2.3 Run query.  
+  2.4 Save result in CSV format.  
+  2.5 Analyze data by use Power BI
+        - You can see result form [PBI]()
+      
+ 
+### 3. Conclusion : 
