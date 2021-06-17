@@ -62,7 +62,7 @@ In this session,
     ```
     
   2.3 Run query.  
-  2.4 Save result in CSV format.  
+  2.4 Save result in [CSV](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2010%20-%20Customer%20Movement%20Analysis/Cust_Movement_Result.csv) format.  
   2.5 Analyze data by use Power BI
         - You can see result form [PBI]()
       
