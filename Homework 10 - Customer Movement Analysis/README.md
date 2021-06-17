@@ -7,7 +7,7 @@ In this session,
   - To analyze movement of customer.
 
 ### 2. Procedure :
-  2.1 You can use data from [link](https://drive.google.com/drive/folders/1qjwJYTPHZcy193x1ND4TVFvAoPAmh1X1?usp=sharing).  
+  2.1 You can use data from [link](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).  
   2.2 Query data by Google Big Query   
   - SQL code for query has shown as below. 
       
