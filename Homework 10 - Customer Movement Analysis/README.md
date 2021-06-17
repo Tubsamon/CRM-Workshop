@@ -1,10 +1,11 @@
 # Homework 10 - Customer Movement Analysis
 
-In this session, 
+In this session, I analyze data from Google BigQuery. After querying raw data with SQL, I can consider customer movement from new customers, reactivated customers, repeat customers, and customer churn.
 
 
 ### 1. Goal : 
-  - To analyze movement of customer.
+  - To analyze the movements of 
+customers.
 
 ### 2. Procedure :
   2.1 You can use data from [link](https://drive.google.com/file/d/1mr8NgqTqBT9lHrNdhVvGSM_Fpo3rri4h/view?usp=sharing).  
@@ -64,7 +65,7 @@ In this session,
   2.3 Run query.  
   2.4 Save result in [CSV](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2010%20-%20Customer%20Movement%20Analysis/Cust_Movement_Result.csv) format.  
   2.5 Analyze data by use Power BI
-      - You can see result from [PBI](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2010%20-%20Customer%20Movement%20Analysis/customer%20movement%20analysis%20dashboard.pbix)
+      - You can see result from [PBI](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2010%20-%20Customer%20Movement%20Analysis/customer%20movement%20analysis%20dashboard.pbix).
       
  
 ### 3. Conclusion : 
