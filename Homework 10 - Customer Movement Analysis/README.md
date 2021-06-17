@@ -67,5 +67,6 @@ In this session,
       - You can see result from [PBI]()
       
  
-### 3. Conclusion : Result of customer movement analysis shown as below
+### 3. Conclusion : 
+  The following is the result of customer analysis.
 
