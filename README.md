@@ -34,4 +34,4 @@ For 12 workshops as below lists
  
  [11.Voice of Customer](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2011%20%20-%20Voice%20of%20customer)
  
- [12.]
+ [12.Design Thinking](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2012%20-%20Design%20Thinking)
