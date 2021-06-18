@@ -12,3 +12,4 @@ In this session, A customer journey is a story about understanding your users, h
 ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2004%20-%20Customer%20Journey/Customer%20Journey%20with%20Analytics.jpg)
 
 ### Collecting data throughtout customer journey
+![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2004%20-%20Customer%20Journey/Collect%20data%20customer%20journey.jpg)
