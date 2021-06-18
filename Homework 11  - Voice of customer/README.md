@@ -97,3 +97,6 @@ In this session, I analyze the voice of customer by use Topic Modeling. It's an 
     
  3. Conclusion
   - In this project , the NLP model has low efficiency because it can't seperate the words clearly due to each store has small data.
+
+  - VOC Momo Paradise
+  ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2011%20%20-%20Voice%20of%20customer/VOC%20-%20Momo.JPG)
