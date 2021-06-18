@@ -2,7 +2,7 @@
 
 In this session, I analyze the voice of customer by use Topic Modeling. It's an interesting way to manage customer feedback in the present to find out what customers are saying about your brand on social media. However, there is a clear difficulty in stop words in Thai due to the variety of spelling errors that make a low efficiency model.   
  
-1. I use Google Colab to create the voice of customer from 'CustomerReview.csv'.
+1. I use Google Colab to create the voice of customer from [CustomerReview.](https://drive.google.com/file/d/1NxfrUE2LGBu1ZtLDglUcFAEGjw_Dnqz_/view?usp=sharing)
 2. Procedure
   - Sepearte data of each store to 3 groups by brand (1.Mo-Mo-Paradise, 2.Shabushi, 3.ข้าน้อยขอชาบู) for clustering analysis to find some insight.
   - Remove abnormal words and add new groups for similar words.
