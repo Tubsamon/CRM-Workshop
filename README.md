@@ -17,8 +17,10 @@ For 12 workshops as below lists
    - To describe how to provide the best possible experience to each individual customer.
  
  [5.Customer Lifetime Value Dashboard](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2005%20-%20Customer%20Lifetime%20Value%20Dashboard)
+   - To analyze liftime value of customers.
  
  [6.Customer Segmentation](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2006-%20Customer%20Segmentation)
+   - Customer segmentation is the process of dividing customers into groups based on common characteristics. 
  
  [7.Product Recommendation](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2007%20-%20Product%20Recommendation)
   - Used to determine association rules, sometime call 'Market Basket Analysis'
