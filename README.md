@@ -27,12 +27,16 @@ For 12 workshops as below lists :
   - Used to determine association rules, sometime call 'Market Basket Analysis'
  
  [8.Campaign Respond Result](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2008%20-%20Campaign%20Respond%20Model)
+  - The task is to categorize the customers who will respond to the next marketing campaign based on the data collected about the customer.
  
  [9.A/B Testing](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2009%20-%20AB%20Testing)
   - A/B testing is a way to compare two versions of a single variable, typically by testing a subject's response to variant A against variant B, and determining which of the two variants is more effective.
  
- [10.Customer Movement Analysis]()
+ [10.Customer Movement Analysis](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2010%20-%20Customer%20Movement%20Analysis)
+  - Measuring customer flow through the store and understanding shopper behavior provides store owners with valuable insight into various aspects of their store's performance.
  
  [11.Voice of Customer](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2011%20%20-%20Voice%20of%20customer)
+  - Voice of the Customer is a term that describes your customer’s feedback about their experiences with and expectations for your products or services.
  
  [12.Design Thinking](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2012%20-%20Design%20Thinking)
+  - Design thinking is an ideology as well as a process that is concerned with solving complex problems in a highly user-centric way.
