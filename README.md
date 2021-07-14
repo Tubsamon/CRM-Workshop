@@ -1,6 +1,6 @@
 # BADS7105 CRM Analytics and Intelligence 
 
-## This repository is the part of BADS 7105 CRM Analytics dnd Intelligence, NIDA
+## This repository is the part of BADS 7105 CRM Analytics and Intelligence, NIDA
 ### 6210422010 TUBSAMON DUSITSOPITTAWONG
 
 For 12 workshops as below lists :
