@@ -1,9 +1,9 @@
-# BADS7105 CRM Analytics and Intelligence 
+# CRM Analytics and Intelligence 
 
 ## This repository is the part of BADS 7105 CRM Analytics and Intelligence, NIDA
-### 6210422010 TUBSAMON DUSITSOPITTAWONG
 
-For 12 workshops as below lists :
+
+Show topics that cover customer relationship management for the 12 workshops listed below :
 
  [1.Analysis of Customer Behaviors](https://github.com/Tubsamon/BADS7105-CRM/tree/main/Homework%2001%20-%20Analysis%20of%20Customer%20Behavior)
    - To analyze intersting and consumer behavior from students in class.
