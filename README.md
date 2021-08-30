@@ -1,6 +1,6 @@
 # CRM Analytics and Intelligence 
 
-## This repository is the part of BADS 7105 CRM Analytics and Intelligence, NIDA
+## This repository is designed to describe topics relating to 'customer relationship management (CRM),' such as customer segmentation, product recommendation, and campaign response rate using SQL, Python, and Power BI.
 
 
 Show topics that cover customer relationship management for the 12 workshops listed below :
