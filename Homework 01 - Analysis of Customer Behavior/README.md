@@ -1,4 +1,4 @@
-# Homework 01 : Analysis of Customer Behavior
+# Analysis of Customer Behavior
 
 In this session, from a workshop in a class, that responds to the answer of products that which you 'interested' or 'consumption'. Then, using Power BI, bring the answer to find the customer's behavior.
 
