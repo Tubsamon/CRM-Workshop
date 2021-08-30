@@ -1,4 +1,4 @@
-# Homework 05 : Customer Lifetime Value Dashboard
+# Customer Lifetime Value Dashboard
 
 1. In this session, i use Microsoft Power BI to create customer lifetime value dashboard from a supermarket Dataset.
 2. Procedure
