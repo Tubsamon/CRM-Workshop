@@ -1,4 +1,4 @@
-# Homework 09 : A/B Testing
+# A/B Testing
 
 In this session, I use A/B testing to compare two campaigns ('ซื้อ 1 แก้ว แถม 1' and 'ซื้อ 2 แก้วลด 50%') and see which one has a greater conversion rate.
 
