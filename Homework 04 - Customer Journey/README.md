@@ -1,4 +1,4 @@
-# Homework 04 : Customer Journey
+# Customer Journey
 
 In this session, A customer journey is a story about understanding your users, how they behave while they visit on your website, and what you can do to improve their experience so they come back.
 
