@@ -1,4 +1,4 @@
-# Homework 11 : Voice of Customer
+# Voice of Customer
 
 In this session, I analyze the voice of customer by use Topic Modeling. It's an interesting way to manage customer feedback in the present to find out what customers are saying about your brand on social media. However, there is a clear difficulty in stop words in Thai due to the variety of spelling errors that make a low efficiency model.   
  
