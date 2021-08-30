@@ -1,4 +1,4 @@
-# Homework 07 : Product Recommendation
+# Product Recommendation
 
 In this session, from a workshop in a class, that responds to the answer of products that you have ever purchased or have never purchased. Then, bring the answer to find the product recommendation by python. And show the result by network graph.
 
