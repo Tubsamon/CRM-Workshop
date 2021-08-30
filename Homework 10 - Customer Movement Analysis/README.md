@@ -1,4 +1,4 @@
-# Homework 10 - Customer Movement Analysis
+# Customer Movement Analysis
 
 In this session, I analyze data from Google BigQuery. After querying raw data with SQL, I can consider customer movement from new customers, reactivated customers, repeat customers, and customer churn.
 
